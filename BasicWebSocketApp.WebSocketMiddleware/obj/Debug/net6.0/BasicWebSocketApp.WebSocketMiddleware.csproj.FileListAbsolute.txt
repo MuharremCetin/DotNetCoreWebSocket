@@ -1,0 +1,12 @@
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\bin\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.deps.json
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\bin\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.dll
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\bin\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.pdb
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.csproj.AssemblyReference.cache
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.AssemblyInfoInputs.cache
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.AssemblyInfo.cs
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.csproj.CoreCompileInputs.cache
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.dll
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\refint\BasicWebSocketApp.WebSocketMiddleware.dll
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\BasicWebSocketApp.WebSocketMiddleware.pdb
+C:\GithubRepo\BasicWebSocketApp\BasicWebSocketApp.WebSocketMiddleware\obj\Debug\net6.0\ref\BasicWebSocketApp.WebSocketMiddleware.dll
