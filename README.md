@@ -1,4 +1,4 @@
-# DotNetCoreWebSocket
+# DotNetCoreWebSocket Middleware in .Net core Web Api
 WebSocket middleware in .Net core Web Api
 
 This project is a .Net Core project created using .Net 6 framework.
